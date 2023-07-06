@@ -1,0 +1,8 @@
+mkdir rep1
+mkdir rep2
+mkdir rep3
+cd rep1
+mkdir rep4
+cd 
+mv rep3 rep1/rep4
+

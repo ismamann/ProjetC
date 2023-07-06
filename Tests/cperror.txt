@@ -1,0 +1,8 @@
+mkdir rep1
+mkdir rep2
+mkdir rep3
+cd rep1
+touch fic1
+cd /rep3
+touch fic2
+cp /rep3 /rep1/fic1

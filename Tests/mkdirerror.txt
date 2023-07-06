@@ -1,0 +1,4 @@
+mkdir rep1
+mkdir rep2
+mkdir rep3
+mkdir rep====nasshn

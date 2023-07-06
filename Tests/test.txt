@@ -1,0 +1,28 @@
+mkdir rep1
+mkdir rep2
+mkdir rep3
+cd rep1
+mkdir rep11
+mkdir rep12
+cd rep11
+mkdir rep111
+cd rep111
+touch fic1111
+cd ../..
+cd rep12
+touch fic221
+cd
+cd rep2 
+touch fic21
+mkdir rep21
+cd rep21
+touch fic211
+print
+cp /rep1 /rep3/newRep1
+print
+cd
+rm /rep2
+print
+cd /rep1
+mv rep11 /rep3/newRep11
+print

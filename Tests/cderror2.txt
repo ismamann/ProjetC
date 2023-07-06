@@ -1,0 +1,5 @@
+mkdir rep1
+mkdir rep2
+cd rep1
+touch file11
+cd file11
